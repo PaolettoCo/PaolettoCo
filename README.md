@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🖥️ I am a 31-year-old junior back-end developer based in Frosinone 🌍<br><br>📱 My studies have focused on social communication, and for about a year now, I have been dedicating myself to developing my programming skills 💻<br><br>🎓 I am currently a student at Develhope.<br><br>🗣️ Given my personality, studies, and past experiences, I think I have excellent communication skills and am beginning to acquire good leadership abilities 🚀</p>
+<p align="left">🖥️ I am a 33-year-old junior back-end developer based in Frosinone 🌍<br><br>📱 My studies have focused on social communication, and for about a year now, I have been dedicating myself to developing my programming skills 💻<br><br>🎓 I am currently a student at Develhope.<br><br>🗣️ Given my personality, studies, and past experiences, I think I have excellent communication skills and am beginning to acquire good leadership abilities 🚀</p>
 
 ###
 
